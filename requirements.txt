@@ -7,4 +7,4 @@ langchain_text_splitters
 google-generativeai
 python-dotenv
 PyPDF2
-streamlit.runtime.scriptrunner
+from streamlit.runtime.scriptrunner.script_run_context
